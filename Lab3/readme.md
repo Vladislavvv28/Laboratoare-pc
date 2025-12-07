@@ -1,1 +1,4 @@
-# Laborator 3 
+În această lucrare de laborator scopul este aprofundarea cunoștințelor privind structurile de date de tip tablou bidimensional și dezvoltarea abilităților practice de programare în limbajul C prin implementarea algoritmilor de prelucrare a acestora. 
+În urma acestei lucrări de laborator eu am aplicat concepte esențiale precum: parcurgerea unei matrice, identificarea elementelor de pe diagonala secundară, selecția condiționată a valorilor pozitive și organizarea codului pentru obținerea unor rezultate clare și corecte. Lecrarea de laborator mi-a consolidat abilitățile de lucru cu tablouri bidimensionale și m-a ajutat să înțeleg mai bine modul în care structura și prezentarea codului pot influența eficiența și ușurința în utilizare. Voi aplica aceste lecții în viitoarele proiecte pentru a scrie coduri mai clare, mai flexibile și mai bine documentate. 
+
+ 
