@@ -1,1 +1,3 @@
-# Laborator 4 
+Această lucrare de laborator are scopul de afamiliariza studentul cu scrierea și utilizarea tablourilor unidimensionale și bidimensionale, utilizînd limbajul C. 
+
+ În urma realizării acestei lucrări de laborator, am înțeles mai bine modul de declarare, inițializare și prelucrare a tablourilor bidimensionale în limbajul C. Am observat cum pot fi utilizate structurile de control pentru parcurgerea elementelor și pentru efectuarea diferitelor operații asupra datelor stocate în tablouri. Prin rezolvarea exercițiilor, am constatat cât de importante sunt aceste structuri în organizarea și manipularea eficientă a informațiilor, mai ales în aplicații care implică matrice, imagini sau calcule numerice. Consider că această lucrare m-a ajutat să-mi dezvolt gândirea logică și să-mi îmbunătățesc abilitățile de programare în limbajul C. 
