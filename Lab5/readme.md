@@ -1,1 +1,4 @@
-# Laborator 5 
+Această lucrare de laborator are scopul de a familiariza studentul cu procesarea și utilizarea șirurilor de caractere, utilizând limbajul C.  
+În cadrul acestei lucrări de laborator am studiat metodele fundamentale de procesare a șirurilor de caractere în limbajul C. Am exersat prelucrarea datelor text prin funcții standard, dar și prin parcurgeri directe ale șirurilor. Am realizat programe pentru inversarea ordinii cuvintelor, căutarea și numărarea aparițiilor unui caracter, precum și identificarea primei și ultimei apariții în șir. Activitatea a contribuit la înțelegerea modului în care sunt reprezentate șirurile în C și la dezvoltarea abilităților de lucru cu pointeri, tablouri de caractere și funcții de manipulare a textului. Aceste cunoștințe sunt esențiale pentru procesarea datelor de tip text și pentru rezolvarea problemelor întâlnite frecvent în aplicațiile software. 
+
+ 
