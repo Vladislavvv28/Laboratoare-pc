@@ -1,1 +1,7 @@
 "# Laboratoare-PC" 
+"# SDA.sarcini-individuale" 
+"# SDA.Sarcini-individuale" 
+"# SDA.Sarcini-individuale" 
+"# Sarcini-individuale.SDA" 
+"# SDA-Lucrari" 
+"# SDA-Lucrari" 
